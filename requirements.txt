@@ -1,0 +1,7 @@
+Django
+python-memcached
+django-tagging
+gunicorn
+carbon==0.9.9
+whisper==0.9.9
+graphite-web==0.9.9
